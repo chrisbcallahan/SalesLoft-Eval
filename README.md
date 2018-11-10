@@ -19,7 +19,9 @@ Django reference -> https://www.django-rest-framework.org/
 # Must install:
 
 $ pip install django
+
 $ pip install django-environ
+
 $ pip install requests
 
 # Setup notes:
