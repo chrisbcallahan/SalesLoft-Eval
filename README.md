@@ -40,7 +40,7 @@ $ python manage.py runserver
 
 -> Navigate to:
 
-localhost:8000/people
+localhost:8000/
 
 # Other notes: 
 
