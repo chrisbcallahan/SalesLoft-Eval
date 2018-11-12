@@ -38,6 +38,10 @@ $ python manage.py migrate
 
 $ python manage.py runserver
 
+-> Navigate to:
+
+localhost:8000/people
+
 # Other notes: 
 
 The people directory contains the files/code for the Level 1 app.
