@@ -2,7 +2,7 @@
 
 Application for SalesLoft interview
 
-This Application was developed in Python using the Django REST framework and integrates with the public SalesLoft API
+This Application was developed in Python using the Django web framework and integrates with the public SalesLoft API
 
 Django reference -> https://www.django-rest-framework.org/
 
