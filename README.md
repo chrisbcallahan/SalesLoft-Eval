@@ -1,6 +1,6 @@
 # SalesLoft-Eval
 
-Application for SalesLoft interview
+Django web service integrated with SalesLoft API
 
 This Application was developed in Python using the Django web framework and integrates with the public SalesLoft API
 
