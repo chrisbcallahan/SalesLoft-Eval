@@ -32,7 +32,13 @@ $ django-admin startproject mysite
 
 -> Apply all mirgrations 
 
-$ python manage.py migrate
+  -> creates DB schema for the people model
+    
+  $ python manage.py makemigrations people 
+  
+  -> apply changes to the DB (sqlite3)
+  
+  $ python manage.py migrate
 
 -> To run 
 
