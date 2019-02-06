@@ -1,5 +1,3 @@
-# SalesLoft-Eval
-
 Django web service integrated with SalesLoft API
 
 This Application was developed in Python using the Django web framework and integrates with the public SalesLoft API
